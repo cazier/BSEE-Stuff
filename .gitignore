@@ -1,3 +1,12 @@
+# Custom
+output/
+*.DAT
+1947/
+1968/
+1989/
+2010/
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
